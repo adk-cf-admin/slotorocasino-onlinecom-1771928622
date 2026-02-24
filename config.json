@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#2E0735",
+            "lang-select-color": "#222829",
+            "bg-light": "#2E0735",
+            "welcome-bonus-bg": "#2E0735",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#030025",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#D700DC",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FAFF03",
+            "yellow": "#D700DC",
+            "yellow-button": "#FAFF03",
+            "button-text": "#2E0735",
+            "main-button-text": "#2E0735",
+            "border-color": "#D700DC",
+            "casino-cards": "#2E0735",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#D700DC",
+            "providers-back": "#2E0735",
+            "faq-label": "#2E0735",
+            "bg-footer": "#2E0735",
+            "copyright": "#e7e7d5",
+            "starColor": "#D700DC",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3463"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3464",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Slotoro Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3465",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Slotoro"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Slotoro",
+                    "title": "Slotoro: Slots, Live Casino & Sports Betting — Welcome Bonus Up to €2,500 + 250 Free Spins",
+                    "description": "Play at Slotoro with thousands of slots, HD live dealer tables, and sports betting in one account. Claim a welcome package up to €2,500 plus 250 free spins, join tournaments, activate cashback offers, and enjoy convenient withdrawals with 24\/7 support.",
+                    "canonical": "slotorocasino-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3466",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "slotorocasino-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3467"
+                },
+                "hero": {
+                    "title": "Slotoro — Online Casino & Sports Betting with Up to €2,500 + 250 FS",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3468",
+                    "imageSizeModifier": 10,
+                    "imageYModifier": -6,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3469",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 0,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Thousands of slots, fresh releases daily.",
+                        "Full HD live casino with dealers.",
+                        "Welcome pack: up to €2,500 + 250 FS.",
+                        "Cashback up to €1,000 on play.",
+                        "Tournaments and jackpot hunts with prizes.",
+                        "Fast deposits and convenient withdrawals.",
+                        "24\/7 support and smooth navigation."
+                    ],
+                    "advantagesAfterText": "We deliver a secure, player-first experience for gaming and betting in one place. Our platform is built for quick access, easy discovery, and rewarding promotions across different play styles. We focus on fairness, comfort, and nonstop entertainment from a single account.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Slotoro App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3470",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Slotoro App",
+                    "mobileGooglePlayImageTitle": "Slotoro App",
+                    "mobileIosImageTitle": "Slotoro App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Slotoro",
+                        "description1": "We stand out by bringing slots, live games, and sports betting into one seamless hub with constant promos and tournaments. We prioritise clear bonus rules, reliable cashouts, and smooth play across devices.\n",
+                        "items": [
+                            "Bonus up to €2,500.",
+                            "250 free spins included.",
+                            "Cashback up to €1,000."
+                        ],
+                        "description2": "We are Slotoro, and everything is designed to make gaming and betting feel exciting, simple, and rewarding. With one account, you unlock slots, live casino, and sports markets, moving between sections in just a few clicks. Our game lobby is built for fast discovery, helping you find new releases, top titles, and curated collections by features and volatility. In live casino, we bring the real-floor vibe with professional dealers and crisp streaming, while sports betting adds a high-energy layer to your day.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3471",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": " To kick things off, we offer a welcome package with a strong bonus and free spins so you can stretch your bankroll and explore different games. Throughout the week, we run extra offers that keep slots, live tables, and betting sessions fresh. We host tournaments where consistency and smart decisions matter, and prizes are awarded under clear conditions. Inside the platform you’ll find entertainment in multiple formats, from fast instant games to classic table favourites. We reward activity with personalised offers, cashback, and themed promo periods so every play style has something valuable. Our loyalty program lets you build status and unlock bigger perks as you play and bet. Within VIP, we make the experience more personal and streamlined while keeping full access to all account benefits. We support a multi-language environment and 24\/7 help, so you can resolve questions without hassle. Payments are arranged for quick deposits and smooth, guided withdrawals. We apply modern security standards, and verification strengthens protection for your account and transactions. Responsible play matters to us, so you can manage limits and session time to stay in control. Our goal is to give you a powerful mix of content, bonuses, and convenience in one place that feels great to return to. We keep expanding the game lineup and promo calendar so the platform stays lively and engaging. With Slotoro, you step into a complete entertainment world where there’s always something new to try and real prizes to chase."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Slotoro: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotoro access rules and comfortable play\n<\/h3>\n\n<p>\nWe provide access to our service for adults only to keep play safe and compliant. Registration is quick, and profile details must be accurate so payments and support work smoothly. We ask for one account per person to keep bonuses and personalised offers fair. To protect transactions, we use identity checks when needed and guide you step-by-step through the process. We support fair play and clear bonus and betting rules. We encourage using only your own payment methods to protect your balance and account. We maintain a friendly environment and expect respectful communication in chat and with support. We don’t encourage attempts to bypass security systems, and we always choose the safest path to protect your account. Responsible play is important, and we provide tools to manage time and budget. We recommend setting personal limits early so your sessions stay controlled. We can also help you pause or restrict access if you feel it’s the right move.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKey access conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAge & eligibility: adults 18+ only, in line with local requirements.\n\n<\/li>\n            <li>• \nOne account: one user — one profile for correct bonus handling.\n\n<\/li>\n            <li>• \nProfile accuracy: use real details matching documents and payment data.\n\n<\/li>\n            <li>• \nVerification: upload requested documents to strengthen security and speed cashouts.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited actions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nThird‑party payments: don’t use someone else’s cards or wallets.\n\n<\/li>\n            <li>• \nUnfair practices: don’t abuse bonuses or attempt to manipulate play.\n\n<\/li>\n            <li>• \nDisruptive behaviour: avoid insults, spam, and toxic conduct in chat.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible play\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLimits: set deposit and stake limits to control spending.\n\n<\/li>\n            <li>• \nTime‑out: take a break whenever you want.\n\n<\/li>\n            <li>• \nSelf‑exclusion: use self‑exclusion for longer breaks.\n\n<\/li>\n            <li>• \nSelf‑assessment: check habits and adjust your play when needed.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotoro security: licensing, privacy, and data protection\n\n<\/h3>\n\n<p>\nWe operate under official licensing, which means core processes—from bet records to transaction handling—follow defined standards and internal controls. Licensing sets expectations for fair play, responsible practice, and reliable payments. We keep our rules and policies updated to match modern security requirements. This approach helps us maintain consistent quality across casino, live games, and sports betting. Our goal is to give you a protected, easy-to-understand environment.\n\n<\/p>\n<br>\n\n\n<p>\nWe secure data transmission with modern encryption protocols so logins, passwords, and payment actions travel through protected channels. This reduces interception risk and supports safe authentication. We apply multi-layer session controls and suspicious-activity protection to prevent unauthorised access. Sensitive actions can trigger extra checks for added safety. Our focus is keeping your account firmly in your control.\n\n<\/p>\n<br>\n<p>\nOur privacy approach follows a “minimum necessary” principle: we collect only what’s needed for registration, service, withdrawals, and security compliance. Data is used to run your account, credit bonuses, personalise offers, and prevent fraud. Access inside our teams is role-based, so only authorised staff can view specific information when required. We apply structured storage procedures and retention timelines so data isn’t kept longer than needed. You can manage parts of your privacy preferences in your profile and through support requests.\n\n<\/p>\n<br>\n<p>\nIdentity verification (KYC) adds an extra layer of protection by confirming the account truly belongs to you. We initiate checks when needed for security and transaction integrity, and we guide you with clear steps throughout. Typical requests include identity documents and proof that the payment method belongs to you, reducing risk and disputes. In some cases, we may request address confirmation to strengthen profile reliability. The result is a safer account and more confident withdrawals.\n\n<\/p>\n<br>\n<p>\nWe also place strong emphasis on payments: we support popular deposit and withdrawal methods and keep processes transparent and user-friendly. We ask that payments are made in your own name because it’s key for fast handling and safer processing. We monitor abnormal patterns and prevent risks before they become issues. When required, we add extra checks to protect your payment history and account balance. Everything is built around stability and security.\n\n<\/p>\n<br>\n<p>\nIf you have questions about data, documents, or processing, we provide clear guidance and help you choose the best path. We value trust and design systems so you feel in control and confident. Our approach combines licensed standards, strong technical protection, and transparent rules. We continuously enhance security tools and refresh policies to match evolving threats. Slotoro is an experience where safety is built into every step.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotoro Support: fast replies and help 24\/7\n<\/h3>\n\n<p>\nWe’ve built support to be simple and responsive, so you can solve any issue without waiting around. We offer core contact options—live chat, email, and phone—so you can choose what feels easiest. Live chat is the fastest route for questions about withdrawals, bonuses, or verification. Email is ideal for sending documents and receiving detailed step-by-step guidance for account and security topics. Phone support helps when you want a direct conversation and quick clarification. We assist with registration, promotions, games, betting, payments, limits, and account settings. We explain rules in plain language and provide clear actions you can follow. We keep service consistent: polite, accurate, and practical. We support round-the-clock availability to match different time zones. We also help with responsible play tools and limit management. Our goal is for you to feel supported at every stage.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: fast answers for play, bonuses, betting, and transactions.\n\n<\/li>\n            <li>• \nEmail: best for documents, detailed requests, and written records.\n\n<\/li>\n            <li>• \nPhone: direct discussion for complex questions and quick clarity.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse times and service quality\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: typically within minutes, with concise instructions.\n\n<\/li>\n            <li>• \nEmail: detailed replies with steps tailored to your case.\n\n<\/li>\n            <li>• \nPhone: quick review of the issue and next-action confirmation.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguage availability\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMulti-language help: we support several popular interface and support languages.\n\n<\/li>\n            <li>• \nPlain wording: clear explanations without heavy jargon.\n\n<\/li>\n            <li>• \nConsistent standard: the same attentive approach across all channels.\n\n<\/li>\n\n        <\/ul><br>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Slotoro",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotoro Loyalty Program: tiers, perks, and rewards\n<\/h3>\n<p>\nOur loyalty program is built to turn your activity across slots, live casino, and betting into extra value. You earn status through real play and participation, not vague promises. As your tier rises, you unlock stronger personalised offers and more rewarding benefits. We keep progression clear so you can see your level, understand how to climb faster, and plan your sessions. Loyalty combines instant perks with long-term advantages, so every visit feels worthwhile. Higher tiers bring enhanced rewards, cashback, and regular bonus boosts. We also run missions and special events that help you progress without unnecessary effort. For highly active players, VIP perks add a more personal, premium service layer. Flexibility matters—you can play your way and still build meaningful benefits. Loyalty rewards work alongside our main promotions to strengthen your overall value. We refresh offers regularly so rewards stay relevant and exciting. Slotoro loyalty is about recognising you every time you play.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAutomatic enrolment: you join after account creation—no extra application.\n\n<\/li>\n            <li>• \nComplete your profile: accurate details support smoother personalised rewards.\n\n<\/li>\n            <li>• \nSecurity confirmation: verification when needed strengthens your account and cashouts.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them\n\n\n<\/h4>\n\n <ul>\n            <li>• \nStarter tier: activated right after sign-up and first activity.\n\n<\/li>\n            <li>• \nMid tiers: earned through regular slots, live play, and tournament participation.\n\n<\/li>\n            <li>• \nHigh tiers: reached through consistent activity and steady turnover.\n\n<\/li>\n            <li>• \nVIP tiers: unlocked for top activity with expanded privileges.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRewards and benefits \n<\/h4>\n\n <ul>\n            <li>• \nCashback up to €1,000: return value that extends your play.\n\n<\/li>\n            <li>• \nWeekly bonus up to 150% and up to €1,000: bigger deposit boosts for longer sessions.\n\n<\/li>\n            <li>• \nFree spins (up to 100 in weekly offers): extra spins on popular slot titles.\n\n<\/li>\n            <li>• \nHighroller bonus up to 150% and up to €3,000: built for larger deposits and high action.\n\n<\/li>\n\t    <li>• \nAccumulative bonus up to 350% and up to €1,000: increased value across regular top-ups.\n\n<\/li>\n\t    <li>• \nPersonalised deals: tailored promos based on your favourite games and markets.\n\n<\/li>\n\t    <li>• \nPriority support: faster handling for account, bonuses, and withdrawals.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotoro bonuses and special offers: promos, tournaments, and seasonal events\n<\/h3>\n\n<p>\nThere’s always a reason to jump in—our promo calendar stays active across slots, live casino, and sports betting. We start strong with a welcome package so you can feel the pace immediately and explore with extra bankroll support. From there, regular offers take over: cashback helps extend your play, while deposit boosts lift your balance at the right time. We frequently run themed weeks and seasonal events where featured games, tournament formats, and prize mechanics rotate. In tournaments, we reward consistency and engagement so more players can compete meaningfully. For quick sessions, we run instant-game activities built for fast thrills and snappy results. In live casino, special promo periods add extra energy to tables and game-show style formats. We reward variety—exploring more categories often unlocks better personalised deals. For bigger bankrolls, we offer high-roller style promotions designed for higher stakes and faster action. We also run prize hunts and achievement-style events where regular participation pays off. Promo terms stay clear, with wagering and timing shown inside the bonus area. Our focus is making offers genuinely useful—helping you play longer and discover more. We add short-run weekend boosts for peak-time excitement. Many offers combine bonus value with free spins so you can jump straight into popular slots. Some events include enhanced multipliers and boosted rewards when you meet simple conditions. We keep promos fresh so today, next week, and beyond always feels engaging. Slotoro is built so bonuses, entertainment, and tournament action keep evolving.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain bonuses and offers\n<\/h4>\n\n <ul>\n            <li>• \nWelcome pack: up to €2,500 + 250 free spins — bankroll boost plus extra slot play.\n<\/li>\n            <li>• \nSports bonus: up to 250% and up to €700 — deposit boost for match days and multis.\n\n<\/li>\n            <li>• \nWeekly bonus: up to 150% and up to €1,000 + up to 100 free spins — regular boost for active sessions.\n\n<\/li>\n            <li>• \nHighroller bonus: up to 150% and up to €3,000 — built for larger deposits and big action.\n\n<\/li>\n\t    <li>• \nAccumulative bonus: up to 350% and up to €1,000 — value grows across consistent top-ups.\n\n<\/li>\n\t    <li>• \nCashback: up to €1,000 — return value that extends your playtime.\n\n<\/li>\n\t    <li>• \nSlot tournaments — leaderboards, prize pools, and rewards for steady performance.\n\n<\/li>\n\t    <li>• \nSeasonal events — limited-time themes, rotating offers, and featured game lineups.\n\n<\/li>\n\t    <li>• \nLive casino promos — extra activity across roulette, blackjack, baccarat, and game shows.\n\n<\/li>\n\t    <li>• \nInstant activities — fast formats with regular mini-events.\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotoro games and betting: full choice in one account\n<\/h3>\n\n<p>\nAt Slotoro we’ve built a diverse lobby so you can match your play style to your mood. Our slots cover everything from classic reels to modern video slots packed with bonus features and extra mechanics. We make it easy to reach new releases and top favourites without wasting time. In live casino, you play with real dealers and get the authentic table atmosphere on your screen. For classic fans, our table selection includes multiple rule variants and game speeds. We also offer instant games for short sessions when you want quick action with minimal setup. If you enjoy sports intensity, our betting section supports multis and a range of markets for different strategies. You can combine slots, live games, and betting within one balance and one profile. Filters, categories, and search help you find what you want in seconds. Many games include a comfortable try-out experience so you can learn mechanics before going deeper. We keep expanding the library so your options stay fresh. Slotoro is a place where both relaxed play and high-adrenaline sessions feel right at home.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGame and betting categories\n<\/h4>\n\n <ul>\n            <li>• \nSlots: classic and video slots, bonus features, optional feature buys on selected titles.\n\n<\/li>\n            <li>• \nMegaways & variable-reel slots: fast pace, big reel dynamics, shifting win patterns.\n\n<\/li>\n            <li>• \nLive Casino: roulette, blackjack, baccarat, poker formats, and dealer-led game shows.\n\n<\/li>\n            <li>• \nTable games: multiple variants of roulette, blackjack, and other classics.\n\n<\/li>\n\t    <li>• \nInstant games: crash, plinko, and other rapid-play formats.\n\n<\/li>\n\t    <li>• \nSports betting: pre-match and live, singles and multis, broad market coverage.\n\n<\/li>\n\t    <li>• \nEsports betting: events and markets for competitive titles.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotoro bet limits: minimums and maximums by category\n<\/h3>\n\n<p> \nWe keep stakes flexible so the experience works for careful bankroll play and high-action sessions alike. Minimums and maximums depend on the specific title, provider rules, and the chosen live table. You can always view current limits inside the game or table info before you start. This lets you plan your bankroll and pick the right risk level with confidence.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #D700DC;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">100<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Megaways<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">200<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Feature Buy slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">500<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">20,000<\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live Game Shows<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Table Games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Instant Games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sports Betting<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n   \n  \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSlotoro withdrawals: methods, speed, and limits<\/h3>\n\n<p>\nWe’ve arranged payouts to feel smooth, predictable, and secure. Withdrawals follow a guided flow: choose a method, enter an amount, and track the status in the cashier. We support popular options including cards, e-wallets, and crypto methods so you can pick what suits you. For security, we apply a matching principle—withdrawals are processed using the same method used for deposits. This helps protect your balance and often speeds up handling. We recommend completing your profile and, when needed, finishing verification so cashouts stay stable and fast. Processing time depends on the withdrawal amount, the chosen payment rail, and provider operating schedules. Status updates are shown clearly so you always know what’s happening. For larger withdrawals, additional confirmations may be requested to keep your account protected. Our goal is to balance speed with reliability so you feel confident every time. Final settlement timing can also depend on banks or payment providers after approval. We keep the financial experience clear and convenient.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal methods\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBank cards: familiar, stable option for everyday payouts.\n\n<\/li>\n            <li>• \nE-wallets: flexible for frequent withdrawals and faster handling.\n\n<\/li>\n            <li>• \nCrypto methods: convenient for players who prefer digital assets.\n\n<\/li>\n            <li>• \nBank transfers (where available): suitable for larger amounts and classic payouts.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPayout speed and processing windows\n\n\n<\/h4>\n\n <ul>\n            <li>• \nUp to €499: approval typically ranges from minutes to around 12 hours on working days.\n\n<\/li>\n            <li>• \n€500–€4,999: approval within a wider window, often up to several business days.\n\n<\/li>\n            <li>• \n€5,000–€29,999: approval within extended windows for higher amounts.\n\n<\/li>\n            <li>• \nAbove €30,000: approval can take longer due to enhanced checks.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal limits and key rules\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSame method as deposit: improves security and speeds up handling.\n\n<\/li>\n            <li>• \nVerification when required: protects your account and reduces disputes.\n\n<\/li>\n            <li>• \nPlanning larger cashouts: prepare documents in advance for smooth processing.\n\n<\/li>\n            <li>• \nLimit management: follow method caps and cashier guidance.\n\n\n<\/li>\n\n        <\/ul><br>\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Do I need verification right after sign-up?",
+                            "answer": "You can often start straight away, and verification is requested when needed—for stronger security and smooth withdrawals. We guide you step-by-step.\n\n\n"
+                        },
+                        {
+                            "title": "Can I try games before playing for real?",
+                            "answer": "Many slots include a comfortable try-out experience so you can learn mechanics and features before you commit.\n\n\n"
+                        },
+                        {
+                            "title": "How do I claim the welcome bonus and free spins?",
+                            "answer": "After registering, select the welcome offer in the bonus area, make a qualifying deposit, and receive bonus credit and free spins on eligible games.\n\n\n"
+                        },
+                        {
+                            "title": "Can I use casino and sports betting in one account?",
+                            "answer": "Yes. One profile gives you one balance and smooth switching between slots, live games, and sports betting—no extra accounts required.\n\n\n"
+                        },
+                        {
+                            "title": "What responsible play tools are available?",
+                            "answer": "You can set limits, use time-out, choose self-exclusion, and complete self-assessment tools to stay in control of your play habits.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

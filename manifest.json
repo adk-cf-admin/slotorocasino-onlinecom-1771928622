@@ -1,0 +1,19 @@
+{
+  "name": "Slotoro",
+  "short_name": "Slotoro",
+  "theme_color": "",
+  "background_color": "#2E0735",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1771926695-icon.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
